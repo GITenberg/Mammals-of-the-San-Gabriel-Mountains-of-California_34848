@@ -1,0 +1,27 @@
+_repo: Mammals-of-the-San-Gabriel-Mountains-of-California_34848
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vaughan, Terry A.
+    gutenberg_agent_id: '35074'
+    url: http://www.gutenberg.org/2009/agents/35074
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Mammals
+- Animal
+gutenberg_issued: '2011-01-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34848'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QH'
+- !lcsh 'Mammals -- California, Southern'
+title: Mammals of the San Gabriel Mountains of California
+url: http://www.gutenberg.org/ebooks/34848
